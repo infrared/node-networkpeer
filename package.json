@@ -1,0 +1,10 @@
+{
+    "name": "networkpeer",
+    "version": "0.0.1",
+    "private": true,
+    "main": "./lib/networkpeer.js",
+    "dependencies": {
+        "request": "2.51.0",
+        "nodeunit": "0.9.0"
+    }
+}
